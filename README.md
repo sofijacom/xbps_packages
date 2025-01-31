@@ -10,5 +10,5 @@ https://github.com/techrockedge/xbps_packages/blob/main/Conky_toggle_switch-1.0_
 - then bring it to the form below
 
 ```
-wget https://github.com/techrockedge/xbps_packages/blob/main/Conky_toggle_switch-1.0_1.noarch.xbps\?raw\=true -O Conky_toggle_switch-1.0_1.noarch.xbps
+wget https://github.com/techrockedge/xbps_packages/blob/main/Conky_toggle_switch-1.0_1.noarch.xbps?raw=true -O Conky_toggle_switch-1.0_1.noarch.xbps
 ```
