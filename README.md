@@ -1,4 +1,4 @@
-# xbps_packages
+## xbps_packages
 Collection of Void Linux style XBPS packages assembled for KLV 
 
 
@@ -17,7 +17,7 @@ wget https://github.com/techrockedge/xbps_packages/blob/main/Conky_toggle_switch
 ```
 
 
-# or like this
+## or like this
 
 ```
 wget ‐‐continue https://github.com/sofijacom/xbps_packages/raw/refs/heads/main/Conky_toggle_switch-1.0_1.noarch.xbps
