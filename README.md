@@ -2,7 +2,7 @@
 Collection of Void Linux style XBPS packages assembled for KLV 
 
 
-<img width="888" height="40" alt="split" src="https://github.com/sofijacom/xbps_packages/blob/image/split.png" />
+<img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
 
 
 ## ❯ _example for loading a package_
