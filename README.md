@@ -18,7 +18,7 @@ wget -c https://github.com/sofijacom/xbps_packages/raw/refs/heads/main/Conky_tog
 echo repository=https://github.com/sofijacom/xbps_packages/raw/refs/heads/main/ | sudo tee /etc/xbps.d/packages-void.conf
 ```
 
-_Then you need to refresh your repositories and accept the repository's fingerprint:
+_Then you need to refresh your repositories and accept the repository's fingerprint:_ ( Y )
 
 ```
 sudo xbps-install -S
