@@ -25,4 +25,5 @@ post_install() {
     # Remove
     rm -rf ${DESTDIR}/usr/lib/pkgconfig
     rm -rf ${DESTDIR}/usr/include
+
 }
